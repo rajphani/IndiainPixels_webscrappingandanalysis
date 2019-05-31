@@ -9,3 +9,7 @@ This code consists of the following 3 segments:
 
 
 Note: Results of first two segments are attached as Excel sheets. Results of the third segment will be shown in the console of .ipynb notebook, once all the cells in the notebook are run, after running the last cell, user will be prompted to enter player name and year.  
+
+Note: 
+1. The results which are fetched include runs made in ODIs (including runs made in Asian XI matches).
+2. Whole data is scrapped from a valid source "http://www.espncricinfo.com". 
